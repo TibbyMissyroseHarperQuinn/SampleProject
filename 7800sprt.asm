@@ -63,7 +63,7 @@ CTLSWB          equ     $283    ;I/O Control for SCHWB
 	SEG.U data
 
 
-;******* Vairables ********************************
+;******* Vairables Listed********************************
 
 	org $40
 
